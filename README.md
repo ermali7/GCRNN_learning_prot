@@ -16,7 +16,7 @@ The architectura of the model the reprssent this code integrate  of several deep
 
 # Attention
 ## Updated Version
-This repository will be upated again with more material upon the paper, which this code is used for, will be published to a repsective journal. 
+This repository will be upated again with more material upon the paper, which this code is used for, will be published to a repsective journal. Also and extended result review for implementing and comparing with more machine learning methods will be provided in a future moment. 
 
 ## Related to lincese from where a part of this code is used
 This work is based on previoues model "Notice.txt"  used and modified some script and with the intention for more updated in future for further 
