@@ -1,4 +1,5 @@
 # Getting Started
+>>> This work is under new modifications, it will be updated as soon as the results will be reliable. Thank you>>>
 This repository is part of a work for classifying interaction between compound represented by their chemical sequence and proteins also a sequential data. The aim of this is to integrate Graph for representing the chemical structure and CNN combined with recurrent layers for to obtain feature vector of the protein. The result is a binary class of the interaction or non interaction between the molecule and the protein.
 
 # Desription of datasets
